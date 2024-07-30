@@ -3,7 +3,7 @@
 
 - 📝 I'm a Computer Science student at **UFPB.**
 
-- 🌱 I’m currently learning **Backend Development and Machine Learning.**
+- 🌱 Interested in **Competitive Programming, Machine Learning and Backend Development.**
 
 - 📫 How to reach me **diegoddias007@gmail.com**
 
