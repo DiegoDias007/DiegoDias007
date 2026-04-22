@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Diego 👋</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 - 📝 I'm a Computer Science student at **UFPB.**
 
-- 🌱 Interested in **Machine Learning and Competitive Programming**
+- 🌱 Interested in **Machine Learning, Software Engineering and Competitive Programming**
 
 - 📫 How to reach me **diegoddias007@gmail.com**
 
